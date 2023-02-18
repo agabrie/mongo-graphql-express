@@ -1,11 +1,11 @@
 {
-  "name": "blog-template",
+  "name": "mongo-express-graphql-template",
   "version": "1.0.0",
   "description": "",
-  "main": "server/index.js",
+  "main": "server/server.js",
   "scripts": {
-    "start": "node server/index",
-    "dev": "nodemon server/index",
+    "start": "node server/server",
+    "dev": "nodemon server/server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
